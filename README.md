@@ -1,9 +1,5 @@
-Написать алгоритм парсинга данных по вакансиям для IT-специалистов с ресурсов (на примере одного
-ресурса hh.ru, career.habr.com/vacancies и т.д.).
+An algorithm for parsing data on vacancies for IT specialists from *career.habr.com/vacancies*.
 
-Алгоритм позволяет получить информацию о количестве вакансий
-по направлению Frontend-разработчик в разрезе уровней (Junior, Middle, Senior).
+The algorithm allows to get information about the number of vacancies in the Frontend developer direction by level (Junior, Middle, Senior).
 
-За основу можно взять как один регион (НН, Москва и т.д.) или несколько регионов.
-
-Результат можно представить в табличном и/или графическом виде.
+The result is presented in a tabular form.
